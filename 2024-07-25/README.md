@@ -2,17 +2,19 @@
 
 ## 수업 내용
 
-passwd - 내 패스워드 변경
+<p>
+    ch09. 관리자 권한 실행
 
-온라인 텍스트 암호화
+    passwd - 내 패스워드 변경
 
-sudo passwd
+    온라인 텍스트 암호화
 
-cat /etc/passwd
+    sudo passwd
 
-사이트에서는 패스워드 1234이면 
+    cat /etc/passwd
 
-패스워드를 암호화 하여 gUuFwNo4zkMV+erdGtBlf5NunNgcELQuiCFJmCU4F+E= 이렇게 저장
+    사이트에서는 패스워드 1234이면 패스워드를 암호화 하여 gUuFwNo4zkMV+erdGtBlf5NunNgcELQuiCFJmCU4F+E= 이렇게 저장
+</p>
 
 mv *.* 0722/
 
