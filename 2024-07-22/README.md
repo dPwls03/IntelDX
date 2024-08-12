@@ -71,10 +71,13 @@
 - print("Hello! {}, hope you're well!".format(name))부분에서 .format()
 
 미션
+
 nano triangle.py
 - 삼각형의 면적 = 0.5 * base * height
+
 nano rectangle.py
 - 사각형의 면적 = w * h
+
 nano circle.py
 - 원의 면적 = 파이 * r * r
 
