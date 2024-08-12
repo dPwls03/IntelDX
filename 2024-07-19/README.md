@@ -34,7 +34,7 @@
 ls pwd touch nano vi cat mkdir
 
 파일에 대한 내용
- - date, cal, clear, history, logname, users, who, whoami, uname, arch, env, echo, which (대학 4주차 내용)
+ - date, cal, clear, history, logname, users, who, whoami, uname, arch, env, echo, which
 
 디렉터리 명령어
 - rw, r
