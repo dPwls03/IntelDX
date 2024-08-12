@@ -15,24 +15,21 @@
     EOF	: ^D
 </p>
 
+<p>
+    sudo apt update
 
-sudo apt update
+    sudo apt upgrade
 
-sudo apt upgrade
+    sudo apt install tree     
+</p>
 
-sudo apt install tree 
+<p>
+    CLI	: Command Line Interface
 
-tree
-
-CLI	: Command Line Interface
-
-GUI : Graphic Use Interface
+    GUI : Graphic Use Interface
+</p>
 
 ls pwd touch nano vi cat mkdir
-
-step.or.kr 회원가입
-
-github.com
 
 파일에 대한 내용
  - date, cal, clear, history, logname, users, who, whoami, uname, arch, env, echo, which (대학 4주차 내용)
