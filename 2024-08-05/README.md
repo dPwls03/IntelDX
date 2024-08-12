@@ -1,3 +1,5 @@
 # 2024-08-05-월
 
-## VSCODE와 Github 연동
+## 주제 - VSCODE와 Github 연동하기
+
+### 내용
