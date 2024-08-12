@@ -2,6 +2,33 @@
 
 ## 수업내용
 
+튜플은 튜플의 시작 주소가 있다.
+
+튜플을 리스트로 변경 가능
+
+variable(변수) = expression(수식)
+
+expression - constant, variable, operator, function
+
+control statement - if, for, while
+
+함수 활용하기
+
+함수 호출
+
+리스트와 튜플은 인덱스 사용
+
+딕셔너리는 키 사용
+
+코드는 메인이 먼저 실행
+
+함수 하나를 다 실행하면 다른 함수 실행
+
+반복문 사용해서 팩토리얼 구하기
+
+github vscode 연동
+
+
 ## 발표주제 - VSCODE와 Github 연동하기
 
 ### 발표내용

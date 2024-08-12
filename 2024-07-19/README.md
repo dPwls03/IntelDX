@@ -3,22 +3,33 @@
 ## 수업 내용
 
 우분투 설치, 우분투 명령어
+
 . 	: 자기자신
+
 .. 	: 부모
+
 ~ 	: 홈 디렉토리
+
 / 	: 루트 디렉토리
+
 EOF	: ^D
+
 sudo apt update
+
 sudo apt upgrade
+
 sudo apt install tree 
+
 tree
 
 CLI	: Command Line Interface
-GUI 	: Graphic Use Interface
+
+GUI : Graphic Use Interface
 
 ls pwd touch nano vi cat mkdir
 
 step.or.kr 회원가입
+
 github.com
 
 파일에 대한 내용
