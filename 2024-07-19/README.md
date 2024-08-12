@@ -16,6 +16,7 @@
 </p>
 
 <p>
+    
     sudo apt update
 
     sudo apt upgrade
@@ -24,6 +25,7 @@
 </p>
 
 <p>
+
     CLI	: Command Line Interface
 
     GUI : Graphic Use Interface
