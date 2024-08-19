@@ -13,13 +13,13 @@
 
     Github - 리파지토리 - 파일(index.html) - 웹사이트 호스팅
 
+</p>
+
     <a href="https://w3schools.com/html/default.asp">w3Schools</a>
 
     <a href="https://docs.emmet.io/cheat-sheet/">emmet cheat sheet</a>
 
     <a href="https://csszengarden.com/">css zen garden</a>
-
-</p>
 
 <p>
     MYSQL Database
