@@ -4,6 +4,8 @@
 
 ## 발표주제 - VSCODE C언어 개발 환경 구축하기
 
+<a href="./VSCODE로 C언어 개발 환경 구축하기.pdf">발표자료</a>
+
 ### 발표내용
 
 VSCODE 확장 프로그램 C/C++ 설치 - MinGW 설치 - 환경변수 설정 - gcc 버전확인 - tasks.json 파일 작성 - 단축키 설정 - 코드 작성 후 실행
