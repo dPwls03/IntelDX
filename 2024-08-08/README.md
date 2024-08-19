@@ -15,11 +15,11 @@
 
 </p>
 
-    <a href="https://w3schools.com/html/default.asp">w3Schools</a>
+<a href="https://w3schools.com/html/default.asp">w3Schools</a>
 
-    <a href="https://docs.emmet.io/cheat-sheet/">emmet cheat sheet</a>
+<a href="https://docs.emmet.io/cheat-sheet/">emmet cheat sheet</a>
 
-    <a href="https://csszengarden.com/">css zen garden</a>
+<a href="https://csszengarden.com/">css zen garden</a>
 
 <p>
     MYSQL Database
